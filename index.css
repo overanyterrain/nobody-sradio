@@ -1,0 +1,32 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+{
+    font-family: 'Inter var', 'sans-serif';
+}
+body {
+    background-color:#F3F6FB;
+}
+a, p, h1, h2, h4{
+    color: #343432;
+}
+img {
+    border-style: solid;
+    border-color: black
+    border-width: 30px;
+    width: 200px;
+}
+iframe {
+    width: 612px; 
+    height: 355px;
+}
+div {
+    margin: auto;
+    width: 60%;
+    text-align: center
+    
+}
